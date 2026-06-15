@@ -76,11 +76,9 @@ This code is built on [CFIN (PyTorch)](https://github.com/24wenjie-li/CFIN)
 ## :clipboard: Citation
 
 ```
-@article{
-  title={Local-Global Collaborative Learning for High-Fidelity Infrared Image Super-Resolution},
-  author={Baohua Shan, Na Liu, Yiyan Zhang, Ketao Ma, Xin Zhao},
-  journal={The Visual Computer}
-}
+
+
+
 ```
 
 
